@@ -12,7 +12,7 @@ img {
   font-weight: 900;
   display: flex;
   justify-content: center;
-  margin-bottom: 15px;
+  margin-bottom: 6px;
 }
 
 /* do not edit this footer */
@@ -38,5 +38,5 @@ img {
 }
 
 .plantBox {
-  margin: 20px;
+  margin: 26px;
 }
